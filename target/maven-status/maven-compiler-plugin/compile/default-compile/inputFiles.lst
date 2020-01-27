@@ -1,0 +1,7 @@
+/home/luciano/IdeaProjects/kafka_to_s3/src/main/java/com/lucho/spark/LogsFunction.java
+/home/luciano/IdeaProjects/kafka_to_s3/src/main/java/com/lucho/aws/S3Writer.java
+/home/luciano/IdeaProjects/kafka_to_s3/src/main/java/com/lucho/utils/Utils.java
+/home/luciano/IdeaProjects/kafka_to_s3/src/main/java/com/lucho/domain/Log.java
+/home/luciano/IdeaProjects/kafka_to_s3/src/main/java/com/lucho/main/Main.java
+/home/luciano/IdeaProjects/kafka_to_s3/src/main/java/com/lucho/main/Main2.java
+/home/luciano/IdeaProjects/kafka_to_s3/src/main/java/com/lucho/spark/SparkConsumer.java

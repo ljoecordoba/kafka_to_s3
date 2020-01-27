@@ -1,0 +1,7 @@
+com/lucho/domain/Log.class
+com/lucho/utils/Utils.class
+com/lucho/aws/S3Writer.class
+com/lucho/main/Main2.class
+com/lucho/spark/SparkConsumer.class
+com/lucho/spark/LogsFunction.class
+com/lucho/main/Main.class
